@@ -8,8 +8,6 @@ Welcome to the Food Delivery Backend project! This repository aims to provide a 
 - [Architecture](#architecture)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
